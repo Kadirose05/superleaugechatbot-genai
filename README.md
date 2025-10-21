@@ -9,7 +9,7 @@ Bu proje, Türkçe dilinde çalışan bir RAG (Retrieval-Augmented Generation) c
 - **Embedding Model**: trmteb/turkish-embedding-model (Sentence Transformers)
 - **LLM**: Google Gemini 2.0 Flash
 - **Vector Store**: InMemoryDocumentStore
-- **Dataset**: Türkçe Wikipedia (Süper Lig)
+- **Dataset**: Türkçe Wikipedia (Süper Lig) aldemirburak/superligwikipedia
 - **Dil**: Türkçe
 
 ## 📁 Proje Yapısı
