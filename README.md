@@ -207,16 +207,6 @@ self.retriever.similarity_threshold = 0.7
 - **Document Chunking**: Belge boyutunu optimize edin
 - **Top-K Ayarlama**: Daha az belge = daha hızlı yanıt
 
-## 📈 Gelecek Geliştirmeler
-
-- [ ] Farklı veri setleri desteği
-- [ ] Çoklu dil desteği
-- [ ] Conversation memory
-- [ ] PDF/Word belge desteği
-- [ ] API endpoint
-- [ ] Docker containerization
-- [ ] Performance monitoring
-
 ## 🤝 Katkıda Bulunma
 
 1. Fork yapın
@@ -224,10 +214,6 @@ self.retriever.similarity_threshold = 0.7
 3. Commit yapın (`git commit -m 'Add amazing feature'`)
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
