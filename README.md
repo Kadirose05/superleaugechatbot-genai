@@ -2,6 +2,10 @@
 
 Bu proje, Türkçe dilinde çalışan bir RAG (Retrieval-Augmented Generation) chatbot'udur. Süper Lig hakkında soruları yanıtlamak için Haystack, Google Gemini 2.0 Flash ve Türkçe embedding modeli kullanır.
 
+## ⚽ Canlı Demo Linki
+
+https://superleaugechatbot-genai-vdnl6479kkmpysu93wkpsh.streamlit.app
+
 ## 🧠 Teknoloji Stack'i
 
 - **RAG Framework**: Haystack
